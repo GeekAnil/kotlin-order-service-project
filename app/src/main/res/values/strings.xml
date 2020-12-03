@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OrderService</string>
+    <string name="str_result">Result</string>
+    <string name="str_calculate">Calculate</string>
+    <string name="service_not_binded">Service is not yet connected, please click again</string>
+</resources>
